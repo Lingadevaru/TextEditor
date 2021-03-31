@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="text_editor">Text Editor</string>
+    <string name="button">Bold</string>
+    <string name="italic">Italic</string>
+    <string name="noformat">No Format</string>
+    <string name="type_your_text_here">Type your text here...</string>
+</resources>
